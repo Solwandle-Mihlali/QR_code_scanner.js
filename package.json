@@ -1,0 +1,22 @@
+{
+  "name": "qr_code_scanner",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Solwandle-Mihlali/QR_code_scanner.js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Solwandle-Mihlali/QR_code_scanner.js/issues"
+  },
+  "homepage": "https://github.com/Solwandle-Mihlali/QR_code_scanner.js#readme",
+  "dependencies": {
+    "html5-qrcode": "^2.3.4"
+  }
+}
